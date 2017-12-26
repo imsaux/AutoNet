@@ -1,6 +1,5 @@
 import socket
 import os
-import netifaces
 # import wmi
 
 def check_local_ip():
